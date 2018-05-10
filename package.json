@@ -1,8 +1,18 @@
 {
   "name": "ice-hello-world",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A sample Ice Sickle extension",
-  "keywords": ["icesickle", "extension", "warcraft", "wc3"],
+  "keywords": [
+    "icesickle",
+    "extension",
+    "warcraft",
+    "wc3"
+  ],
+  "icesickle": {
+    "title": "Ice Sickle - Hello World demo",
+    "type": "regular",
+    "api": "0.1.5"
+  },
   "main": "index.js",
   "dependencies": {
     "wc3maptranslator": "^0.5.5"
