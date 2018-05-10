@@ -1,0 +1,24 @@
+{
+  "name": "ice-hello-world",
+  "version": "1.0.2",
+  "description": "A sample Ice Sickle extension",
+  "keywords": ["icesickle", "extension", "warcraft", "wc3"],
+  "main": "index.js",
+  "dependencies": {
+    "wc3maptranslator": "^0.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarCode3/ice-hello-world.git"
+  },
+  "author": "ChiefOfGxBxL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WarCode3/ice-hello-world/issues"
+  },
+  "homepage": "https://github.com/WarCode3/ice-hello-world#readme"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "helloWindow",
+    "path": "./views/hello.html",
+    "description": "",
+
+    "width": 450,
+    "height": 280,
+
+    "modal": true,
+    "frame": false,
+    "resizable": false,
+    "allowMultiple": false,
+    "requiresTemplate": false
+}
